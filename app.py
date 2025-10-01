@@ -126,5 +126,5 @@ with st.expander("ℹ️ Použité technologie"):
 # INFORMACE O AUTOROVI
 # ===============================
 st.subheader("Informace o autorovi")
-st.write("**Jméno:** Jakub Jungman") 
-st.write("**Kontakt:** 277941@vutbr.cz")
+st.write("**Jméno:** Jan Novotný") 
+st.write("**Kontakt:** 278193@vutbr.cz")
